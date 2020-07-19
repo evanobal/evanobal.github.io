@@ -14,4 +14,8 @@ This is a work-in-progress career ePortfolio.
 [Email](mailto:evanobal@gmail.com)
 
 
+### Projects
+
+Here are the latest things I have been working on:
+
 
