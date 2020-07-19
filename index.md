@@ -5,13 +5,13 @@ This is a work-in-progress career ePortfolio.
 
 ### Resources
 
-- List
-[Resume](https://github.com/evanobal/evanobal.github.io/blob/master/EvanObalResume.pdf)
 
-[LinkedIn](https://www.linkedin.com/in/evanobal/)
+- [Resume](https://github.com/evanobal/evanobal.github.io/blob/master/EvanObalResume.pdf)
 
-[Twitter](https://twitter.com/EvanObal)
+- [LinkedIn](https://www.linkedin.com/in/evanobal/)
 
-[Email](mailto:evanobal@gmail.com)
+- [Twitter](https://twitter.com/EvanObal)
+
+- [Email](mailto:evanobal@gmail.com)
 
 
