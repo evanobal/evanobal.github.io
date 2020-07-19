@@ -5,6 +5,7 @@ This is a work-in-progress career ePortfolio.
 
 ### Resources
 
+```markdown
 
 - [Resume](https://github.com/evanobal/evanobal.github.io/blob/master/EvanObalResume.pdf)
 
