@@ -13,6 +13,5 @@ This is a work-in-progress career ePortfolio.
 
 [Email](mailto:evanobal@gmail.com)
 
-[Email](mailto:evanobal@gmail.com)
 
 
