@@ -4,7 +4,7 @@ I am Evan Obal, a student pursuing a major in Cybersecurity at DePaul Univerity.
 
 Here you will find various resources about my career and work that I have done.
 
-### Resources
+### Resources:
 
 <div class="row">
   <div class="column">
