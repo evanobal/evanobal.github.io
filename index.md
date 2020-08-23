@@ -37,7 +37,12 @@ Here are the latest things I have been working on:
 
 [CORE Grant Research Project](https://github.com/evanobal/evanobal.github.io/blob/master/CORE%20Admin%20-%20Report.docx) <br>
   CORE was a grant research project I assisted in developing in coordination with DePaul University and a fellow student. We created a Cybersecurity competition application to integrate into Chicago Public High Schools to get students interested in Cybersecurity. I learned and taught myself a lot during the development of this application and it has been a great experience to be apart of the project.
-  
+  <br>
+  <br>
+[Windows Security Checklist](https://github.com/evanobal/evanobal.github.io/blob/master/Evan%20Obal%20Windows%20CCDC%20Checklist.docx) <br>
+   I commit a lot of time outside of class to the practice with my team for the Collegiate Cyber Defense Competition (CCDC). CCDC is an intensive Cybersecurity competition that takes place throughtout the year where teams composed of University students compete and test their Cybersecurity skills. The competition environment is very stressful and chaotic. One strategy we use is creating a checklist of what to do when the competition starts. This checklist is composed of steps to harden the security of your server and contains a vast amount of information helpful to the user.
+   <br>
+ 
   
 
 <img src="https://i.imgur.com/ZNCuC0u.png" alt="DePaul Security Daemons">
