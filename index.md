@@ -1,9 +1,8 @@
 ## Welcome to Evan Obal's ePortfolio!
 
-I am Evan Obal, a student pursuing a major in Cybersecurity at DePaul Univerity. Here you will find various resources about my career and work that I have done.
-This is a work-in-progress career ePortfolio.
+I am Evan Obal, a student pursuing a major in Cybersecurity at DePaul Univerity. I am very interested in my major, I have participated in multiple Cybersecurity competitions and have worked on security related projects with both DePaul University and independently. I am a part of DePaul University's Collegiate Cyber Defense Competition team and I intern as a Security Analyst for Secure Community Network. I love to use my critical thinking skills and learning about Cybersecurity.
 
-<img src="https://i.imgur.com/ZNCuC0u.png" alt="DePaul Security Daemons">
+Here you will find various resources about my career and work that I have done.
 
 ### Resources
 
@@ -21,3 +20,4 @@ This is a work-in-progress career ePortfolio.
 Here are the latest things I have been working on:
 
 
+<img src="https://i.imgur.com/ZNCuC0u.png" alt="DePaul Security Daemons">
