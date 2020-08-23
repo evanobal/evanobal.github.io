@@ -35,7 +35,7 @@ Here you will find various resources about my career and work that I have done.
 
 Here are the latest things I have been working on:
 
-[CORE Grant Research Project](https://github.com/evanobal/evanobal.github.io/blob/master/CORE%20Admin%20-%20Report.docx)
+[CORE Grant Research Project](https://github.com/evanobal/evanobal.github.io/blob/master/CORE%20Admin%20-%20Report.docx) <br>
   CORE was a grant research project I assisted in developing in coordination with DePaul University and a fellow student. We created a Cybersecurity competition application to integrate into Chicago Public High Schools to get students interested in Cybersecurity. I learned and taught myself a lot during the development of this application and it has been a great experience to be apart of the project.
   
   
