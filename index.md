@@ -14,6 +14,17 @@ Here you will find various resources about my career and work that I have done.
 
 [Email](mailto:evanobal@gmail.com)
 
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Resume</h2>
+    <p><a href="https://github.com/evanobal/evanobal.github.io/blob/master/EvanObalResume.pdf">Resume</a></p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>LinkedIn</h2>
+    <p><a href="https://www.linkedin.com/in/evanobal/">LinkedIn</a></p>
+  </div>
+  
+</div>
 
 ### Projects
 
