@@ -1,16 +1,9 @@
-<style>
-body {
-  background-image: url('i.imgur.com/ZNCuC0u.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style>
-
 ## Welcome to Evan Obal's ePortfolio!
 
 I am Evan Obal, a student pursuing a major in Cybersecurity at DePaul Univerity. Here you will find various resources about my career and work that I have done.
 This is a work-in-progress career ePortfolio.
+
+<img src="https://i.imgur.com/ZNCuC0u.png" alt="DePaul Security Daemons">
 
 ### Resources
 
