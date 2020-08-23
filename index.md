@@ -8,15 +8,15 @@ Here you will find various resources about my career and work that I have done.
 
 <div class="row">
   <div class="column">
-    <h2>Resume</h2>
+    <h2>Resume:</h2>
     <p><a href="https://github.com/evanobal/evanobal.github.io/blob/master/EvanObalResume.pdf">Resume</a></p>
   </div>
   <div class="column">
-    <h2>Email</h2>
+    <h2>Email:</h2>
     <p><a href="mailto:evanobal@gmail.com">evanobal@gmail.com</a></p>
   </div>
   <div class="column">
-    <h2>Social Media</h2>
+    <h2>Social Media:</h2>
     <p><a href="https://www.linkedin.com/in/evanobal/">LinkedIn</a></p>
     <p><a href="https://twitter.com/EvanObal">Twitter</a></p>
   </div>
